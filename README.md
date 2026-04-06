@@ -12,7 +12,10 @@ This repository contains OpenFOAM cases performing stress, displacement, and tem
    Stress and temperature distribution study of a cylinder featuring a ring surface under load.  
 
 3. **Box-and-Cylinder** (`case3-box-cylinder`)  
-   Combined box and cylinder geometry analyzed for stress, and displacement response.  
+   Combined box and cylinder geometry analyzed for stress, and displacement response.
+   
+4. **Box-and-Cylinder** (`case4-Multi-region approach`)
+   Combined box and cylinders geometry analyzed thermal response.
 
 ## Folder Structure
 
@@ -24,4 +27,4 @@ Each case follows the standard OpenFOAM directory structure:
 - `geometry.geo` : Geometry generated using Gmesh
 - `geometry.msh` : Mesh generated using Gmesh
 
-
+Download the full project folder here: [OpenFOAM-Cases.zip](OpenFOAM-Cases.zip)
