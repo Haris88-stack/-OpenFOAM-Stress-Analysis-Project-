@@ -27,4 +27,4 @@ Each case follows the standard OpenFOAM directory structure:
 - `geometry.geo` : Geometry generated using Gmesh
 - `geometry.msh` : Mesh generated using Gmesh
 
-Download the full project folder here: [OpenFOAM-Cases.zip](OpenFOAM-Cases.zip)
+Download the full project folder here: [OpenFoam-cases.zip](OpenFoam-cases.zip)
